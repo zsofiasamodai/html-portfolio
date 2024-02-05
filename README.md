@@ -1,2 +1,2 @@
 # html-portfolio
-Practice the Udemy web development bootcamp
+This repo is created, to practice the Udemy web development bootcamp exercises.
